@@ -54,27 +54,12 @@ p {
 .toolbar2 {
     opacity: 0.4;
     border-color: aqua;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .example-spacer {
     flex: 1 1 auto;
-}
-
-.toolbar3 {
-    background-color: cornflowerblue;
-    height: 1.5rem;
-    font-size: 18px;
-    color: aliceblue;
-    opacity: 0.5;
-    padding-bottom: 0px;
-}
-
-.pie {
-    background-color: cornflowerblue;
-    height: 1.5rem;
-    font-size: 18px;
-    color: aliceblue;
-    opacity: 0.5;
 }
 
 mat-icon {
